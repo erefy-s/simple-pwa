@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+.firebaserc
+firebase.json
+
+.DS_Store
